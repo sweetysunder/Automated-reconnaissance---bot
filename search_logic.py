@@ -1,5 +1,3 @@
-# Nikhal Tool Google Dorking
-
 import requests
 import xml.etree.ElementTree as ET
 from urllib.parse import urljoin, quote_plus

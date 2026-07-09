@@ -1,4 +1,4 @@
-# Yonith Tool GeoIP Lookup
+#  GeoIP Lookup
 import requests
 
 def get_geo_info(target):

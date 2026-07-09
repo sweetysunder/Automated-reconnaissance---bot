@@ -1,5 +1,3 @@
-# Yonith Tool NMAP
-
 import subprocess
 import re
 import socket

@@ -1,4 +1,4 @@
-# Yonith Tool Whois
+# whois
 
 import socket
 import re

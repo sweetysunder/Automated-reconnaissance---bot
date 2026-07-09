@@ -1,4 +1,4 @@
-# Hemanandh Tool NIKTO
+# NIKTO
 
 import subprocess
 import re
